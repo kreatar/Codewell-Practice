@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    margin: 20px 200px 20px 200px;
+    padding: 10px;
+}
+
+.hero {
+    display: flex;
+    margin-left: auto;
+}
+
+.heroes {
+    padding: 10px;
+}
+
+.subscribe {
+    padding: 10px;
+    background-color: #ee7c0d;
+    color: white;
+    border-radius: 3px;
+}
+
+main {
+    margin: 50px 200px 50px 200px;
+}
+
+.main_article {
+    display: flex;
+}
+
+.article {
+    width: 25vw;
+}
+
+.weekly {
+    margin-left: 70px;
+    margin-right: 80px;
+}
+
+.weekly h1 {
+    margin-bottom: 20px;
+}
+
+.weekly h4 {
+    margin-bottom: 30px;
+}
+
+.user_avatar {
+    display: flex;
+}
+
+.user_avatar img {
+    width: 100px;
+}
+
+.jessica {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 25px;
+}
