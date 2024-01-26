@@ -90,7 +90,13 @@ footer {
 
 .circles {
     display: flex;
+    align-items: center;
     height: 30px;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.circles a img {
     margin-top: 10px;
     gap: 10px;
 }
