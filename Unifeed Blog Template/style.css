@@ -35,11 +35,16 @@ main {
 
 .article {
     width: 25vw;
+    height: 17vw;
 }
 
 .weekly {
     margin-left: 70px;
     margin-right: 80px;
+}
+
+.tips_7 {
+    margin-top: 30px;
 }
 
 .weekly h1 {
@@ -62,4 +67,21 @@ main {
     display: inline-flex;
     align-items: center;
     margin-left: 25px;
+}
+
+.article1 {
+    margin-top: 100px;
+}
+
+.article11 img {
+    width: 20vw;
+    height: 12vw;
+}
+
+.tips_7 h1 {
+    margin-bottom: 20px;
+}
+
+.tips_7 h4 {
+    margin-bottom: 30px;
 }
