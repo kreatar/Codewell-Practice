@@ -74,7 +74,7 @@ main {
 }
 
 .article11 img {
-    width: 20vw;
+    width: 22vw;
     height: 12vw;
 }
 
@@ -84,4 +84,18 @@ main {
 
 .tips_7 h4 {
     margin-bottom: 30px;
+}
+
+.three_article {
+    display: flex;
+    gap: 50px;
+}
+
+footer {
+    display: flex;
+    margin: 100px 200px 20px 200px;
+}
+
+footer p {
+    margin-left: auto;
 }
